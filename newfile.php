@@ -1,3 +1,4 @@
 <?php
-echo "Hello!!"
+echo "Hello World 3!!";
+phpinfo();
 ?>
