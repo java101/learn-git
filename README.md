@@ -1,4 +1,4 @@
-learn-git
+learn-git 
 =========
 
-Just Learn Git
+Just Learn Git with Eclipse 
